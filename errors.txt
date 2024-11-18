@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label bathroom_day1 is defined twice, at File "game/script.rpy", line 463:
+    label bathroom_day1:
+and File "game/script.rpy", line 757:
+    label bathroom_day1:
+
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Thu Nov 14 19:03:53 2024
